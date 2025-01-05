@@ -1,0 +1,61 @@
+questions = [
+    "How do you prefer to spend your free time",
+    "What is your ideal noise level in a shared space",
+    "How do you usually handle cleaning and chores in a shared space",
+    "How do you feel about having guests over",
+    "What's your typical sleep schedule",
+    "How do you approach conflict resolution in shared living or working spaces",
+    "What's your preferred level of interaction with roommates or coworkers",
+    "How do you feel about shared resources (e.g., food, office supplies)"
+]
+
+# Answer options for each question
+answers_q1 = ["Socializing with friends or roommates", "Relaxing alone", "Pursuing hobbies or outdoor activities", "Working on personal projects or studying"]
+answers_q2 = ["I prefer quiet most of the time", "Moderate noise is fine", "I'm comfortable with a lively and noisy environment"]
+answers_q3 = ["I prefer a fixed schedule", "I clean as needed, no strict rules", "I'm okay with a bit of clutter"]
+answers_q4 = ["I enjoy hosting frequently", "Occasionally, but not too often", "I prefer to keep the space private"]
+answers_q5 = ["Early to bed, early to rise", "Night owl, late riser", "Flexible, depends on the day"]
+answers_q6 = ["Open and direct communication", "Prefer to avoid confrontation, but will address issues if necessary", "Tend to let things go unless they're a major problem"]
+answers_q7 = ["I enjoy spending a lot of time together", "A balance of social time and personal space", "Minimal interaction, I value my alone time"]
+answers_q8 = ["I'm open to sharing most things", "I prefer to have clear boundaries on shared items", "I keep everything separate"]
+
+{"Socializing with friends or roommates": 1,
+    "Relaxing alone": 2,
+    "Pursuing hobbies or outdoor activities": 3,
+    "Working on personal projects or studying": 4,
+    },
+    
+    {"I prefer quiet most of the time": 1,
+    "Moderate noise is fine": 2,
+    "I'm comfortable with a lively and noisy environment": 3,
+    },
+    
+    {"I prefer a fixed schedule": 1,
+    "I clean as needed, no strict rules": 2,
+    "I'm okay with a bit of clutter": 3,
+    },
+    
+    {"I enjoy hosting frequently": 1,
+    "Occasionally, but not too often": 2,
+    "I prefer to keep the space private": 3,
+    },
+    
+    {"Early to bed, early to rise": 1,
+    "Night owl, late riser": 2,
+    "Flexible, depends on the day": 3,
+    },
+    
+    {"Open and direct communication": 1,
+    "Prefer to avoid confrontation, but will address issues if necessary": 2,
+    "Tend to let things go unless they're a major problem": 3,
+    },
+    
+    {"I enjoy spending a lot of time together": 1,
+    "A balance of social time and personal space": 2,
+    "Minimal interaction, I value my alone time": 3,
+    },
+    
+    {"I'm open to sharing most things": 1,
+    "I prefer to have clear boundaries on shared items": 2,
+    "I keep everything separate": 3
+}

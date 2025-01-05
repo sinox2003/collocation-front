@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4683e282-f274-4511-a6eb-df64e36e7a33" name="Changes" comment="adding logo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/authService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/authService.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="Dockerfile" />
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;khadija.laamiri19&quot;,
+      &quot;fullname&quot;: &quot;Khadija Laamiri&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/enamifatimazahrae/colocation-front.git&quot;,
+    &quot;second&quot;: &quot;bf8b438e-c2fd-4a4d-8ff4-89d320a621b8&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ocV1btN18FDhQHhFIurx0T7K8J" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/menno/Downloads/test/Angular-financial-dashboard&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2024.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;azure&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\menno\Desktop\Projet-devOps\colocation-front\src\components\Listings" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\menno\Desktop\Projet-devOps\colocation-front\src\components\features\profile" />
+      <recent name="D:\colocation-front\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4683e282-f274-4511-a6eb-df64e36e7a33" name="Changes" comment="" />
+      <created>1731168641381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731168641381</updated>
+      <workItem from="1731168643884" duration="31000" />
+      <workItem from="1731177098450" duration="69000" />
+      <workItem from="1731256666854" duration="25684000" />
+      <workItem from="1731353850068" duration="3584000" />
+      <workItem from="1731399963208" duration="1927000" />
+      <workItem from="1731420806207" duration="16381000" />
+      <workItem from="1731512440821" duration="4928000" />
+      <workItem from="1731956959894" duration="5638000" />
+      <workItem from="1732004151462" duration="846000" />
+      <workItem from="1732006746305" duration="513000" />
+      <workItem from="1732007355299" duration="6000" />
+      <workItem from="1732013911804" duration="9020000" />
+      <workItem from="1732092888418" duration="46000" />
+      <workItem from="1732640775151" duration="1280000" />
+      <workItem from="1732714645368" duration="1211000" />
+      <workItem from="1732808504523" duration="43000" />
+      <workItem from="1732874336497" duration="4105000" />
+      <workItem from="1732912265353" duration="25996000" />
+      <workItem from="1733040348636" duration="11762000" />
+      <workItem from="1733136891589" duration="14653000" />
+      <workItem from="1733171423542" duration="671000" />
+      <workItem from="1733214394835" duration="14000" />
+      <workItem from="1733220920325" duration="347000" />
+      <workItem from="1733236381727" duration="16287000" />
+      <workItem from="1733326726181" duration="652000" />
+      <workItem from="1733479034447" duration="232000" />
+      <workItem from="1733776560492" duration="14000" />
+      <workItem from="1734522144059" duration="16612000" />
+      <workItem from="1734555356477" duration="599000" />
+      <workItem from="1734625052594" duration="2018000" />
+      <workItem from="1734630165538" duration="26771000" />
+      <workItem from="1734731740608" duration="1233000" />
+      <workItem from="1735484008273" duration="858000" />
+      <workItem from="1735584595960" duration="125132000" />
+      <workItem from="1735989806382" duration="18660000" />
+      <workItem from="1736009969894" duration="4627000" />
+      <workItem from="1736068205712" duration="522000" />
+      <workItem from="1736116555893" duration="1002000" />
+    </task>
+    <task id="LOCAL-00001" summary="enhancing create annonce">
+      <option name="closed" value="true" />
+      <created>1734631712823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734631712823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixing issues">
+      <option name="closed" value="true" />
+      <created>1734649445545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734649445545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="using profilePictures in cloud and modifying the urls from microservices to gateway">
+      <option name="closed" value="true" />
+      <created>1734694172689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734694172690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing home page">
+      <option name="closed" value="true" />
+      <created>1734699807282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734699807282</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changing some urls to gateway url">
+      <option name="closed" value="true" />
+      <created>1734732938614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734732938614</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changing description AI url to the deployed model">
+      <option name="closed" value="true" />
+      <created>1735484777735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735484777735</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changing description AI url to the deployed model">
+      <option name="closed" value="true" />
+      <created>1735484808835</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735484808835</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixing an error">
+      <option name="closed" value="true" />
+      <created>1735744538100</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735744538100</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixing an error">
+      <option name="closed" value="true" />
+      <created>1735746883020</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735746883020</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixing an error">
+      <option name="closed" value="true" />
+      <created>1735828493747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735828493747</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixing an error">
+      <option name="closed" value="true" />
+      <created>1735921988672</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735921988672</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixing an error">
+      <option name="closed" value="true" />
+      <created>1735941281592</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735941281592</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enhancing create annonce" />
+    <MESSAGE value="fixing issues" />
+    <MESSAGE value="using profilePictures in cloud and modifying the urls from microservices to gateway" />
+    <MESSAGE value="fixing home page" />
+    <MESSAGE value="changing some urls to gateway url" />
+    <MESSAGE value="changing description AI url to the deployed model" />
+    <MESSAGE value="fixing an error" />
+    <MESSAGE value="adding logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding logo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/FirstPage.jsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/layout/Header.js</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

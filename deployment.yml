@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: coloc-app-deployment
+  labels:
+    app: coloc-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: coloc-app
+  template:
+    metadata:
+      labels:
+        app: coloc-app
+    spec:
+      containers:
+        - name: coloc-app-server
+          image: laamirikhadija/coloc-app:latest
+          ports:
+            - containerPort: 3000
