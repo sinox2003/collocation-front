@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/collocation-front/static/css/main.a10415b7.css",
+    "main.js": "/collocation-front/static/js/main.bda96937.js",
+    "static/js/453.102130f6.chunk.js": "/collocation-front/static/js/453.102130f6.chunk.js",
+    "static/media/image2.jpg": "/collocation-front/static/media/image2.14c9cf9e29b94f93190f.jpg",
+    "static/media/image.jpg": "/collocation-front/static/media/image.b6528cc092e310e77085.jpg",
+    "static/media/download.jpg": "/collocation-front/static/media/download.9ca80e629cfb16790bfd.jpg",
+    "static/media/slick.svg": "/collocation-front/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/collocation-front/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/collocation-front/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/collocation-front/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/collocation-front/index.html",
+    "main.a10415b7.css.map": "/collocation-front/static/css/main.a10415b7.css.map",
+    "main.bda96937.js.map": "/collocation-front/static/js/main.bda96937.js.map",
+    "453.102130f6.chunk.js.map": "/collocation-front/static/js/453.102130f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a10415b7.css",
+    "static/js/main.bda96937.js"
+  ]
+}
